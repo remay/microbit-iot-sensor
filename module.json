@@ -1,0 +1,11 @@
+{
+  "name": "microbit-iot-sensor",
+  "version": "0.0.0",
+  "description": "Simple micro:bit IOT sensor node",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
